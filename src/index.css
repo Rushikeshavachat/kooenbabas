@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.heading6-content{
+  unicode-bidi: isolate;
+
+}
+.background-image-overlay{
+  background-image: url("../public/background-image.jpeg" ) , linear-gradient(rgba(0, 0 , 0 ,0.7) 50%, rgba(0,0,0,0.8) 50%);
+  /* padding-bottom: 42px;
+  padding-top: 100px; */
+
+ 
+}
